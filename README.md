@@ -1,7 +1,7 @@
 ReactJS crash course by Mosh.
 A mockup for simple  cart with Increment/Delete/Reset operations
 
-
+<img width="448" alt="cart" src="https://user-images.githubusercontent.com/3733762/44964625-549bae00-aee6-11e8-828d-ea8cb15bc472.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
